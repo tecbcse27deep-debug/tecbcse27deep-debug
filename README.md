@@ -1,379 +1,378 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E1B4B,50:4C1D95,100:6D28D9&height=230&section=header&text=DEEP%20BISWAS&fontSize=50&fontColor=FFFFFF&fontAlignY=38&desc=AI%20%2F%20ML%20%7C%20SOFTWARE%20ENGINEERING%20%7C%20FULL-STACK%20DEVELOPMENT&descAlignY=62&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=DEEP%20BISWAS&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20%7C%20AI%2FML%20%7C%20Software%20Engineering&descAlignY=60&descSize=18&color=0:312e81,50:4c1d95,100:1e1b4b" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=850&height=45&lines=Computer+Science+%26+Engineering+Student;AI+%2F+ML+Enthusiast;Software+Engineering+%26+Full-Stack+Developer;Python+%7C+Java+%7C+SQL;Building+Practical+Intelligent+Systems" alt="Typing SVG"/>
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Computer+Science+%26+Engineering+Student;AI%2FML+%7C+Python+%7C+Java+%7C+Data+Analytics;Building+Practical+%26+Scalable+Software;Exploring+Trustworthy+Artificial+Intelligence" alt="Typing SVG"/>
+</a>
 
 <br/>
 
-<img src="https://img.shields.io/badge/CSE-4th%20Year-6366F1?style=for-the-badge&logo=academia&logoColor=white"/>
-<img src="https://img.shields.io/badge/AI%20%2F%20ML-Engineering-7C3AED?style=for-the-badge&logo=googlebrain&logoColor=white"/>
-<img src="https://img.shields.io/badge/West%20Bengal-India-4F46E5?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSE-Student-7C3AED?style=for-the-badge&labelColor=111827" />
+<img src="https://img.shields.io/badge/4th%20Year-2027-6366F1?style=for-the-badge&labelColor=111827" />
+<img src="https://img.shields.io/badge/AI%2FML-Engineer-8B5CF6?style=for-the-badge&labelColor=111827" />
+<img src="https://img.shields.io/badge/West%20Bengal%2C%20India-2563EB?style=for-the-badge&labelColor=111827" />
 
 <br/><br/>
 
-<a href="https://github.com/DeepPanther">
-<img src="https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+<a href="https://github.com/tecbcse27deep-debug">
+<img src="https://img.shields.io/badge/PORTFOLIO-7C3AED?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-
 <a href="https://www.linkedin.com/in/deep-biswas-258a2b409/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LINKEDIN-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-
 <a href="mailto:pantherdbs@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact-6D28D9?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+<img src="https://img.shields.io/badge/EMAIL-6366F1?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-
-<a href="https://github.com/DeepPanther">
-<img src="https://img.shields.io/badge/GitHub-Profile-312E81?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<a href="https://github.com/tecbcse27deep-debug">
+<img src="https://img.shields.io/badge/GITHUB-312E81?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=DeepPanther&label=PROFILE%20VIEWS&color=7C3AED&style=for-the-badge" alt="Profile Views"/>
-<img src="https://img.shields.io/github/followers/DeepPanther?label=FOLLOWERS&style=for-the-badge&color=6366F1" alt="Followers"/>
-<img src="https://img.shields.io/github/stars/DeepPanther?label=STARS&style=for-the-badge&color=4F46E5" alt="Stars"/>
+<img src="https://komarev.com/ghpvc/?username=tecbcse27deep-debug&label=PROFILE%20VIEWS&color=7C3AED&style=flat-square" />
+<img src="https://img.shields.io/github/followers/tecbcse27deep-debug?label=FOLLOWERS&style=flat-square&color=6366F1" />
+<img src="https://img.shields.io/github/stars/tecbcse27deep-debug?label=STARS&style=flat-square&color=8B5CF6" />
 
 </div>
 
 ---
 
-## About
+## ABOUT
 
-I am a **Computer Science & Engineering student** focused on building reliable, practical, and intelligent software systems.
+I am a **Computer Science & Engineering student** focused on building practical software systems at the intersection of **software engineering, artificial intelligence, machine learning, and data analytics**.
 
-My engineering interests span **Artificial Intelligence, Machine Learning, Software Engineering, Full-Stack Development, Data Analytics, backend systems, and product engineering**. I enjoy transforming real-world problems into maintainable software through structured development, data-driven experimentation, and practical system design.
+My engineering interests span **Python, Java, Spring Boot, Flask, SQL, machine learning, REST APIs, and full-stack application development**. I enjoy taking an idea from a problem statement through implementation, debugging, database integration, and deployment-ready architecture.
 
-I am particularly interested in combining **AI/ML capabilities with conventional software engineering** to create useful, scalable, and user-focused applications.
+I approach development with a **product-engineering mindset**: understand the problem, design a maintainable solution, build iteratively, and continuously improve reliability, usability, and technical quality.
 
-### Engineering Mindset
+My current interests include:
 
-* Build software around real-world problems
-* Design clean and maintainable application architecture
-* Develop practical AI/ML solutions
-* Work with data from preparation through evaluation
-* Build REST APIs and backend services
-* Connect intelligent systems with usable interfaces
-* Focus on maintainability, reliability, and usability
-* Continuously improve through experimentation and learning
+- Software Engineering & Backend Development
+- Artificial Intelligence & Machine Learning
+- Data Analytics & Intelligent Applications
+- REST API & Full-Stack Development
+- Trustworthy & Responsible AI
+- Database-Driven Applications
+- Practical AI-powered Products
 
-### Open To
+### OPEN TO
 
-`Software Engineering` · `AI/ML Engineering` · `Data Analytics` · `Backend Development` · `Full-Stack Development` · `Internships` · `Entry-Level Opportunities` · `Technical Collaborations`
+**Software Engineering · Java Development · Python Development · AI/ML · Data Analytics · Backend Development · Full-Stack Development · Internship & Graduate Opportunities**
 
 ---
 
-## Tech Stack
+## TECH STACK
 
 ### Languages
 
 <p align="center">
-<a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" alt="Python"/></a>
-<a href="https://www.java.com/"><img src="https://skillicons.dev/icons?i=java" alt="Java"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" alt="HTML"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" alt="CSS"/></a>
-<a href="https://www.mysql.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL"/></a>
-</p>
-
-### Data & AI / ML
-
-<p align="center">
-<a href="https://pandas.pydata.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas"/></a>
-<a href="https://numpy.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" height="48" alt="NumPy"/></a>
-<a href="https://scikit-learn.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="48" height="48" alt="Scikit-learn"/></a>
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,sql,html,css,javascript&theme=dark" />
 </p>
 
 ### Frontend
 
 <p align="center">
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" alt="HTML"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" alt="CSS"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript"/></a>
+<img src="https://skillicons.dev/icons?i=html,css,javascript&theme=dark" />
 </p>
 
 ### Backend & Databases
 
 <p align="center">
-<a href="https://spring.io/projects/spring-boot"><img src="https://skillicons.dev/icons?i=spring" alt="Spring Boot"/></a>
-<a href="https://flask.palletsprojects.com/"><img src="https://skillicons.dev/icons?i=flask" alt="Flask"/></a>
-<a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL"/></a>
+<img src="https://skillicons.dev/icons?i=spring,flask,mysql,postgresql&theme=dark" />
 </p>
 
 ### Cloud, DevOps & Tooling
 
 <p align="center">
-<a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" alt="Git"/></a>
-<a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" alt="GitHub"/></a>
-<a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" alt="VS Code"/></a>
-<a href="https://maven.apache.org/"><img src="https://skillicons.dev/icons?i=maven" alt="Maven"/></a>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,maven,postman,docker&theme=dark" />
 </p>
 
 ---
 
-## AI / ML Expertise
+## AI / ML EXPERTISE
 
-| Domain                     | Proficiency  | Details                                                     |
-| -------------------------- | ------------ | ----------------------------------------------------------- |
-| Machine Learning           | Intermediate | Supervised learning, classification and model evaluation    |
-| Python for AI/ML           | Intermediate | Pandas, NumPy and Scikit-learn workflows                    |
-| Data Analytics             | Intermediate | Data cleaning, exploration, analysis and visualization      |
-| Model Evaluation           | Intermediate | Accuracy, recall, confusion matrices and evaluation metrics |
-| Recommendation Systems     | Intermediate | Movie and music recommendation workflows                    |
-| Explainable AI             | Learning     | Explainability concepts and trustworthy AI evaluation       |
-| Responsible AI             | Learning     | Fairness, robustness, confidence, privacy and data quality  |
-| AI Application Development | Learning     | Integrating ML capabilities into practical software systems |
+| Domain | Proficiency | Details |
+|---|---|---|
+| Machine Learning | Intermediate | Supervised learning, classification, model evaluation |
+| Python for AI | Intermediate | NumPy, Pandas, scikit-learn and data workflows |
+| Data Analytics | Intermediate | Data cleaning, exploration, analysis and visualization |
+| AI Application Development | Intermediate | Integrating intelligent functionality into practical applications |
+| Explainable AI | Developing | SHAP, LIME and interpretable model analysis |
+| Responsible AI | Developing | Fairness, robustness, confidence and trustworthiness concepts |
+| Healthcare AI | Developing | AI evaluation with emphasis on reliability and responsible deployment |
+| Model Evaluation | Intermediate | Accuracy, recall, confusion matrix and fairness-oriented metrics |
 
 ---
 
-## Featured Projects
+## FEATURED PROJECTS
 
 <details>
 <summary><strong>Recommendation System for Movies & Music</strong></summary>
 
 <br/>
 
-A practical recommendation application that generates movie and music suggestions based on **category and mood**.
+A web-based recommendation application that generates **movie and music recommendations based on category and mood**, combining a simple user experience with a Python-based recommendation workflow.
 
-| Attribute       | Details                                                                |
-| --------------- | ---------------------------------------------------------------------- |
-| **Stack**       | Python · Flask · Pandas · Scikit-learn · HTML · CSS                    |
-| **Scale**       | 100-item recommendation dataset                                        |
-| **Performance** | Lightweight local recommendation workflow                              |
-| **Security**    | Controlled application flow and input handling                         |
-| **Impact**      | Converts user mood and media preferences into targeted recommendations |
-| **Repository**  | <a href="https://github.com/DeepPanther">View GitHub</a>               |
+| Attribute | Details |
+|---|---|
+| **Stack** | Python · Flask · Pandas · scikit-learn · HTML · CSS |
+| **Scale** | 100-record recommendation dataset |
+| **Performance** | Lightweight recommendation workflow designed for fast local interaction |
+| **Security** | Server-side processing with controlled application inputs |
+| **Impact** | Provides mood-oriented recommendations through a simple web interface |
+| **Repository** | [View Repository](https://github.com/tecbcse27deep-debug) |
 
-### Professional Project Explanation
+### Professional Engineering Perspective
 
-The application combines a Python-based recommendation workflow with a Flask web interface. Users select a media category and mood, after which the application processes the dataset and returns relevant recommendations.
+The project demonstrates the complete flow from **structured data → preprocessing → recommendation logic → Flask backend → browser-based interface**.
 
-**Key engineering areas:**
+The application accepts inputs such as:
 
-* Data handling using Pandas
-* Recommendation-oriented machine learning
-* Flask backend development
-* HTML/CSS frontend integration
-* Structured project organization
-* Requirements management
-* End-to-end ML application development
+- Movie / Music
+- Mood
+- Recommendation preferences
+
+The project focuses on turning a machine-learning/data-processing concept into a usable software product rather than keeping the implementation isolated inside a notebook.
+
+**Core Technologies:** `Python` `Flask` `Pandas` `scikit-learn` `HTML` `CSS`
+
+</details>
+
+<br/>
+
+<details>
+<summary><strong>Trustworthy Healthcare AI Evaluation Platform</strong></summary>
+
+<br/>
+
+A research-oriented AI evaluation concept designed to assess healthcare machine-learning systems beyond raw predictive accuracy.
+
+| Attribute | Details |
+|---|---|
+| **Stack** | Python · scikit-learn · PyTorch/TensorFlow · SHAP · LIME · Fairlearn · MLflow · FastAPI · React/Streamlit · PostgreSQL |
+| **Scale** | Healthcare ML evaluation workflow |
+| **Performance** | Multi-dimensional model evaluation |
+| **Security** | Privacy and responsible-AI considerations |
+| **Impact** | Explores trustworthy evaluation of healthcare AI systems |
+| **Repository** | Research / development workspace |
+
+### Professional Engineering Perspective
+
+The platform concept evaluates AI systems across multiple dimensions including:
+
+- Predictive performance
+- Explainability
+- Fairness
+- Confidence
+- Robustness
+- Data quality
+- Data drift
+- Privacy
+
+The long-term objective is to create a **composite AI Trustworthiness Score** and generate structured evaluation reports for healthcare AI models.
+
+**Core Technologies:** `Python` `scikit-learn` `SHAP` `LIME` `Fairlearn` `MLflow` `FastAPI` `PostgreSQL`
+
+</details>
+
+<br/>
+
+<details>
+<summary><strong>Online Doctors Clinic — Application Development</strong></summary>
+
+<br/>
+
+A planned full-stack application concept focused on creating a structured digital platform for clinic and healthcare-related workflows.
+
+| Attribute | Details |
+|---|---|
+| **Stack** | Java · Spring Boot · Maven · REST API · MySQL |
+| **Scale** | Academic full-stack application |
+| **Performance** | REST-oriented backend architecture |
+| **Security** | Authentication and role-based access concepts |
+| **Impact** | Designed to model practical healthcare service workflows |
+| **Repository** | Development project |
+
+### Professional Engineering Perspective
+
+The application is being approached as a practical software-engineering project with emphasis on:
+
+- REST API architecture
+- Database integration
+- Entity relationships
+- Authentication
+- Role-based functionality
+- Maintainable Java backend structure
+- Maven-based project management
+
+**Core Technologies:** `Java` `Spring Boot` `Maven` `MySQL` `REST API`
 
 </details>
 
 ---
 
-## Experience
+## EXPERIENCE
 
-### Computer Science & Engineering Student
+### Software Engineering & AI/ML Projects
+**Independent / Academic Development**  
+**2025 — Present**
 
-**Techno Institute of Engineering And Management Banipur**
-**Current — 4th Year**
+Developing software and AI/ML projects across backend engineering, data processing, machine learning, and database-driven applications.
 
-* Developing practical software engineering and AI/ML projects
-* Working with Python, Java, SQL and backend technologies
-* Building REST-based applications with Spring Boot
-* Developing data-driven machine learning solutions
-* Applying software engineering principles to academic and personal projects
-* Exploring trustworthy and responsible AI for healthcare applications
+**Scope of Work**
 
-**Skills:** `Python` `Java` `SQL` `Spring Boot` `Flask` `Machine Learning` `Data Analytics` `Git` `GitHub`
+- Build Python applications using Flask and data-processing libraries
+- Develop Java/Spring Boot REST APIs
+- Integrate applications with MySQL databases
+- Design structured backend entities and service layers
+- Work with machine-learning datasets and evaluation workflows
+- Explore explainability and responsible-AI methodologies
+- Debug application, API, database, and dependency issues
+- Build projects with an emphasis on maintainability and practical usability
+
+**Skills:** `Python` `Java` `Spring Boot` `Flask` `SQL` `MySQL` `REST API` `Machine Learning` `Git` `GitHub`
 
 ---
 
-## Achievements
+## ACHIEVEMENTS
 
 <div align="center">
 
-| Recognition               | Details                                                                            |
-| ------------------------- | ---------------------------------------------------------------------------------- |
-| **AI/ML Development**     | Built an end-to-end movie and music recommendation application                     |
-| **Software Engineering**  | Developed backend applications using Java, Spring Boot and MySQL                   |
-| **AI Research Direction** | Exploring trustworthy, explainable and responsible healthcare AI                   |
-| **Technical Development** | Continuous hands-on learning across software engineering, AI/ML and data analytics |
+| Recognition | Details |
+|---|---|
+| **Academic Progress** | 4th-year Computer Science & Engineering student with expected graduation in 2027 |
+| **AI/ML Development** | Built a practical recommendation system combining data processing, machine learning and web development |
+| **Responsible AI Research** | Developed a healthcare AI evaluation concept focused on trustworthiness beyond accuracy |
+| **Full-Stack Development** | Worked with Java, Spring Boot, REST APIs, MySQL, Flask and web technologies |
 
 </div>
 
 ---
 
-## Certifications
+## CERTIFICATIONS
 
-### IBM SkillsBuild
+### IBM
 
-<div align="center">
-
-<a href="https://github.com/DeepPanther/DeepPanther/blob/main/IBMDesign20260809-22-i0uo9a_page-0001.jpg">
-<img src="https://img.shields.io/badge/IBM%20SkillsBuild-Artificial%20Intelligence%20Fundamentals-0F62FE?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM Artificial Intelligence Fundamentals"/>
+<p align="center">
+<a href="https://skillsbuild.org/">
+<img src=https://img.shields.io/badge/IBM%20SkillsBuild-Artificial%20Intelligence%20Fundamentals-0F62FE?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM Artificial Intelligence Fundamentals" />
 </a>
+</p>
 
-<br/>
+- **Artificial Intelligence Fundamentals — IBM SkillsBuild**
+- **Python Industrial Training**
 
-**Artificial Intelligence Fundamentals — IBM SkillsBuild**
+- <div align="center">
 
-</div>
+<a href="https://github.com/DeepPanther/DeepPanther/blob/main/DEEP%20BISWAS_TIEM_page-0001.jpg"> <img src="https://img.shields.io/badge/Python-Industrial%20Training-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Industrial Training"/> </a>
 
-### Python Industrial Training
-
-<div align="center">
-
-<a href="https://github.com/DeepPanther/DeepPanther/blob/main/DEEP%20BISWAS_TIEM_page-0001.jpg">
-<img src="https://img.shields.io/badge/Python-Industrial%20Training-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Industrial Training"/>
-</a>
-
-<br/>
-
-**Python Industrial Training**
+Python Industrial Training
 
 </div>
-
 ---
 
-## Coding Profiles
+## CODING PROFILES
 
 <div align="center">
 
 <a href="https://leetcode.com/">
-<img src="https://img.shields.io/badge/LeetCode-Problem%20Solving-111827?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="LeetCode"/>
+<img src="https://img.shields.io/badge/LeetCode-Explore-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
 </a>
 
 <a href="https://www.geeksforgeeks.org/">
-<img src="https://img.shields.io/badge/GeeksforGeeks-DSA-166534?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/>
+<img src="https://img.shields.io/badge/GeeksforGeeks-Explore-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
 </a>
 
 <a href="https://www.hackerrank.com/">
-<img src="https://img.shields.io/badge/HackerRank-Coding-0B7285?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
+<img src="https://img.shields.io/badge/HackerRank-Explore-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" />
 </a>
 
 <a href="https://www.codechef.com/">
-<img src="https://img.shields.io/badge/CodeChef-Competitive%20Programming-7C3AED?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/>
+<img src="https://img.shields.io/badge/CodeChef-Explore-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
 </a>
 
 </div>
 
 ---
 
-## GitHub Analytics
+## GITHUB ANALYTICS
 
 <div align="center">
 
-<a href="https://github.com/DeepPanther">
-<img src="https://github-readme-stats.vercel.app/api?username=DeepPanther&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9" width="48%" alt="DeepPanther GitHub Statistics"/>
-</a>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=tecbcse27deep-debug&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C4B5FD&ring_color=7C3AED" />
 
-<a href="https://github.com/DeepPanther">
-<img src="https://streak-stats.demolab.com?user=DeepPanther&hide_border=true&background=0D1117&ring=A78BFA&fire=8B5CF6&currStreakLabel=A78BFA&sideLabels=C9D1D9&dates=6B7280&currStreakNum=FFFFFF&sideNums=FFFFFF" width="48%" alt="DeepPanther GitHub Streak"/>
-</a>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tecbcse27deep-debug&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C4B5FD" />
 
 <br/><br/>
 
-<a href="https://github.com/DeepPanther">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeepPanther&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" width="42%" alt="DeepPanther Top Languages"/>
-</a>
+<img src="https://streak-stats.demolab.com?user=tecbcse27-debug&hide_border=true&background=0D1117&ring=7C3AED&fire=8B5CF6&currStreakLabel=A78BFA&sideLabels=C4B5FD&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=94A3B8" />
 
 </div>
 
 ---
 
-## GitHub Trophies
+## GITHUB TROPHIES
 
 <div align="center">
 
-<a href="https://github.com/DeepPanther">
-<img src="https://github-profile-trophy.vercel.app/?username=DeepPanther&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" width="100%" alt="DeepPanther GitHub Trophies"/>
-</a>
+<img src="https://github-profile-trophy.vercel.app/?username=tecbcse27deep-debug&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1" />
 
 </div>
 
 ---
 
-## Contribution Activity
+## CONTRIBUTION ACTIVITY
 
 <div align="center">
 
-<a href="https://github.com/DeepPanther">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DeepPanther&bg_color=0D1117&color=C9D1D9&line=8B5CF6&point=A78BFA&area_color=4C1D95&area=true&hide_border=true&custom_title=DeepPanther%20Contribution%20Activity" width="100%" alt="DeepPanther Contribution Activity"/>
-</a>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=tecbcse27deep-debug&bg_color=0D1117&color=A78BFA&line=7C3AED&point=C4B5FD&area=true&hide_border=true" width="100%"/>
 
 </div>
 
 ---
 
-## Contribution Snake
+## CONTRIBUTION SNAKE
 
 <div align="center">
 
-<a href="https://github.com/DeepPanther/DeepPanther">
-<img src="https://raw.githubusercontent.com/DeepPanther/DeepPanther/output/github-contribution-grid-snake-dark.svg" width="100%" alt="DeepPanther Contribution Snake"/>
-</a>
+<img src="https://raw.githubusercontent.com/tecbcse27deep-debug/tecbcse27deep-debug/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
 
 </div>
 
 ---
 
-## Current Focus
+## CURRENT FOCUS
 
 ```yaml
 Learning:
-  - Advanced Machine Learning
+  - Advanced Java & Spring Boot
+  - Machine Learning
   - AI Engineering
   - Data Analytics
-  - Spring Boot
-  - Software Architecture
+  - System Design Fundamentals
   - Responsible & Trustworthy AI
 
 Building:
-  - Practical AI/ML applications
-  - Full-stack software projects
+  - Full-Stack Applications
   - REST APIs
-  - Data-driven systems
-  - Backend applications
+  - AI-powered Applications
+  - Database-driven Systems
 
 Exploring:
   - Explainable AI
   - Fairness in Machine Learning
-  - AI Evaluation
   - Healthcare AI
+  - Model Robustness
   - MLOps
-  - Intelligent Recommendation Systems
+  - Production AI Systems
 
 Open To:
   - Software Engineering Opportunities
+  - Java Developer Opportunities
+  - Python Developer Opportunities
   - AI/ML Opportunities
   - Data Analytics Opportunities
-  - Backend Development
-  - Full-Stack Development
-  - Technical Collaborations
-```
-
----
-
-## Connect
-
-<div align="center">
-
-<a href="mailto:pantherdbs@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-</a>
-
-<a href="https://www.linkedin.com/in/deep-biswas-258a2b409/">
-<img src="https://img.shields.io/badge/LinkedIn-Deep%20Biswas-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-
-<a href="https://github.com/DeepPanther">
-<img src="https://img.shields.io/badge/GitHub-DeepPanther-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-
-<a href="https://github.com/DeepPanther">
-<img src="https://img.shields.io/badge/Portfolio-DeepPanther-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### Building practical software. Exploring intelligent systems. Engineering for impact.
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,50:6D28D9,100:312E81&height=130&section=footer" width="100%"/>
-
-</div>
+  - Internships
+  - Graduate Roles
+  - Open Source Collaboration
