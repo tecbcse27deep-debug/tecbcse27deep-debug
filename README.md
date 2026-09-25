@@ -5,7 +5,6 @@
 <br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=tecbcse27deep-debug&label=PROFILE%20VIEWS&color=7C3AED&style=for-the-badge" alt="Profile Views"/> <img src="https://img.shields.io/github/followers/tecbcse27deep-debug?label=FOLLOWERS&style=for-the-badge&color=6366F1" alt="Followers"/> <img src="https://img.shields.io/github/stars/tecbcse27deep-debug?label=STARS&style=for-the-badge&color=4F46E5" alt="Stars"/></div>
-About
 I am a Computer Science & Engineering student focused on building reliable, practical, and intelligent software systems.
 
 My engineering interests span Artificial Intelligence, Machine Learning, Software Engineering, Full-Stack Development, Data Analytics, backend systems, and product engineering. I enjoy transforming real-world problems into maintainable software through structured development, data-driven experimentation, and practical system design.
@@ -111,14 +110,15 @@ Python Industrial Training
 Coding Profiles
 <div align="center"><a href="https://leetcode.com/"> <img src="https://img.shields.io/badge/LeetCode-Problem%20Solving-111827?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="LeetCode"/> </a><a href="https://www.geeksforgeeks.org/"> <img src="https://img.shields.io/badge/GeeksforGeeks-DSA-166534?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/> </a><a href="https://www.hackerrank.com/"> <img src="https://img.shields.io/badge/HackerRank-Coding-0B7285?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/> </a><a href="https://www.codechef.com/"> <img src="https://img.shields.io/badge/CodeChef-Competitive%20Programming-7C3AED?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/> </a></div>
 GitHub Analytics
-<div align="center"><a href="https://github.com/tecbcse27deep-debug"> <img src="https://github-readme-stats.vercel.app/api?username=tecbcse27deep-debug&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9" width="48%" alt="tecbcse27deep-debug GitHub Statistics"/> </a><a href="https://github.com/tecbcse27deep-debug"> <img src="https://streak-stats.demolab.com?user=tecbcse27deep-debug&hide_border=true&background=0D1117&ring=A78BFA&fire=8B5CF6&currStreakLabel=A78BFA&sideLabels=C9D1D9&dates=6B7280&currStreakNum=FFFFFF&sideNums=FFFFFF" width="48%" alt="tecbcse27deep-debug GitHub Streak"/> </a>
+<div align="center"><a href="https://github.com/tecbcse27deep-debug"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tecbcse27deep-debug&theme=github_dark" width="48%" alt="tecbcse27deep-debug GitHub Statistics"/> </a><a href="https://github.com/tecbcse27deep-debug"> <img src="https://streak-stats.demolab.com?user=tecbcse27deep-debug&hide_border=true&background=0D1117&ring=A78BFA&fire=8B5CF6&currStreakLabel=A78BFA&sideLabels=C9D1D9&dates=6B7280&currStreakNum=FFFFFF&sideNums=FFFFFF" width="48%" alt="tecbcse27deep-debug GitHub Streak"/> </a>
 <br/><br/>
 
-<a href="https://github.com/tecbcse27deep-debug"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tecbcse27deep-debug&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" width="42%" alt="tecbcse27deep-debug Top Languages"/> </a></div>
-GitHub Trophies
-<div align="center"><a href="https://github.com/tecbcse27deep-debug"> <img src="https://github-profile-trophy.vercel.app/?username=tecbcse27deep-debug&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" width="100%" alt="tecbcse27deep-debug GitHub Trophies"/> </a></div>
-Contribution Activity
-<div align="center"><a href="https://github.com/tecbcse27deep-debug"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=tecbcse27deep-debug&bg_color=0D1117&color=C9D1D9&line=8B5CF6&point=A78BFA&area_color=4C1D95&area=true&hide_border=true&custom_title=DeepPanther%20Contribution%20Activity" width="100%" alt="tecbcse27deep-debug Contribution Activity"/> </a></div>
+<a href="https://github.com/tecbcse27deep-debug"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tecbcse27deep-debug&theme=github_dark" width="48%" alt="tecbcse27deep-debug Repos per Language"/> </a><a href="https://github.com/tecbcse27deep-debug"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tecbcse27deep-debug&theme=github_dark" width="48%" alt="tecbcse27deep-debug Most Commit Language"/> </a></div>
+Profile Summary
+<div align="center"><a href="https://github.com/tecbcse27deep-debug"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tecbcse27deep-debug&theme=github_dark" width="100%" alt="tecbcse27deep-debug Profile Details"/> </a>
+<br/><br/>
+
+<a href="https://github.com/tecbcse27deep-debug"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tecbcse27deep-debug&theme=github_dark&utcOffset=5.5" width="48%" alt="tecbcse27deep-debug Productive Time"/> </a></div>
 Contribution Snake
 <div align="center"><a href="https://github.com/tecbcse27deep-debug/tecbcse27deep-debug"> <img src="https://raw.githubusercontent.com/tecbcse27deep-debug/tecbcse27deep-debug/output/github-contribution-grid-snake-dark.svg" width="100%" alt="tecbcse27deep-debug Contribution Snake"/> </a></div>
 Current Focus
