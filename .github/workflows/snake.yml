@@ -1,0 +1,36 @@
+# 🐍 Contribution Snake Generator
+# HOW TO USE:
+# 1. Go to your repo: github.com/tecbcse27deep-debug/tecbcse27deep-debug
+# 2. Click "Add file" -> "Create new file"
+# 3. In the filename box type exactly: .github/workflows/snake.yml
+# 4. Paste this FULL file content, then Commit
+# 5. Go to the "Actions" tab -> click "Generate Snake" -> "Run workflow"
+# 6. Wait 2-3 minutes, then refresh your profile - snake appears! 🐍
+
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: Platane/snk@v3
+        id: snake-gif
+        with:
+          github_user_name: tecbcse27deep-debug
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
