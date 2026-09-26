@@ -12,7 +12,7 @@
 
 <br/><br/>
 
-<a href="https://deep-biswas-portfolio.netlify.app">
+<a href="https://tecbcse27deep-debug.github.io/portfolio">
 <img src="https://img.shields.io/badge/Portfolio-Live_Website-22D3EE?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
 </a>
 
@@ -67,7 +67,7 @@ I am particularly interested in combining **AI/ML capabilities with conventional
 
 <div align="center">
 
-<a href="https://deep-biswas-portfolio.netlify.app">
+<a href="https://tecbcse27deep-debug.github.io/portfolio">
 <img src="https://img.shields.io/badge/Portfolio-Visit_Live_Site-22D3EE?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Portfolio Website"/>
 </a>
 
@@ -378,7 +378,7 @@ Open To:
 <img src="https://img.shields.io/badge/GitHub-tecbcse27deep--debug-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
-<a href="https://deep-biswas-portfolio.netlify.app">
+<a href="https://tecbcse27deep-debug.github.io/portfolio">
 <img src="https://img.shields.io/badge/Portfolio-Live_Website-22D3EE?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
 </a>
 
