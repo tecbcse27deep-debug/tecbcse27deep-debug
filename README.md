@@ -16,6 +16,14 @@
 <img src="https://img.shields.io/badge/Portfolio-Live_Website-22D3EE?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
 </a>
 
+<a href="https://online-hotel-simple.onrender.com">
+<img src="https://img.shields.io/badge/Hotel_Booking-Live_Demo-16A34A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Hotel Booking Live Demo"/>
+</a>
+
+<a href="https://movie-music-recommender-jme6.onrender.com">
+<img src="https://img.shields.io/badge/Movie_%26_Music-Recommender_Demo-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Movie and Music Recommender Live Demo"/>
+</a>
+
 <a href="https://www.linkedin.com/in/deep-biswas-258a2b409/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
@@ -118,6 +126,8 @@ I am particularly interested in combining **AI/ML capabilities with conventional
 <a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL"/></a>
 </p>
 
+**Also used:** JSP · JSTL · Spring Data JPA · H2 · Maven
+
 ### Cloud, DevOps & Tooling
 
 <p align="center">
@@ -125,7 +135,10 @@ I am particularly interested in combining **AI/ML capabilities with conventional
 <a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" alt="GitHub"/></a>
 <a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" alt="VS Code"/></a>
 <a href="https://maven.apache.org/"><img src="https://skillicons.dev/icons?i=maven" alt="Maven"/></a>
+<a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" alt="Docker"/></a>
 </p>
+
+**Deployment:** Render · Docker
 
 ---
 
@@ -147,20 +160,64 @@ I am particularly interested in combining **AI/ML capabilities with conventional
 ## Featured Projects
 
 <details>
+<summary><strong>Online Hotel Booking System — Let's Go</strong></summary>
+
+<br/>
+
+A hotel and resort booking web application with customer accounts, room-availability checks, booking management, an admin dashboard, and a simulated checkout flow.
+
+<div align="center">
+
+<a href="https://online-hotel-simple.onrender.com">
+<img src="https://img.shields.io/badge/Live_Demo-Open_Hotel_Booking-16A34A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Open hotel booking live demo"/>
+</a>
+
+</div>
+
+| Attribute | Details |
+|---|---|
+| **Stack** | Java 11 · Spring Boot 2.7 · JSP · JSTL · Spring Data JPA · H2 |
+| **Deployment** | Docker · Render |
+| **Customer features** | Registration/login, hotel browsing, date-based room availability, booking management |
+| **Admin features** | Admin login, booking dashboard, hotel listing management |
+| **Checkout** | Simulated payment form; no real payment gateway or charges |
+| **Database note** | Demo uses an in-memory H2 database; demo records can reset when the service restarts |
+
+### Engineering Highlights
+
+* Implemented Spring MVC routes for the customer and admin workflows.
+* Used Spring Data JPA repositories for hotel and booking data.
+* Added date-overlap checks to calculate room availability.
+* Packaged the JSP application as an executable WAR and deployed it in Docker.
+
+</details>
+
+<details>
 <summary><strong>Recommendation System for Movies & Music</strong></summary>
 
 <br/>
 
-A practical recommendation application that generates movie and music suggestions based on **category and mood**.
+A recommendation application that provides movie and music suggestions based on **category and mood**.
+
+<div align="center">
+
+<a href="https://movie-music-recommender-jme6.onrender.com">
+<img src="https://img.shields.io/badge/Live_Demo-Open_Recommender-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Open movie and music recommender live demo"/>
+</a>
+
+<a href="https://github.com/tecbcse27deep-debug/Movie-Music-Recommender">
+<img src="https://img.shields.io/badge/GitHub-View_Source-181717?style=for-the-badge&logo=github&logoColor=white" alt="Movie Music Recommender GitHub repository"/>
+</a>
+
+</div>
 
 | Attribute       | Details                                                                |
 | --------------- | ---------------------------------------------------------------------- |
 | **Stack**       | Python · Flask · Pandas · Scikit-learn · HTML · CSS                    |
 | **Scale**       | 100-item recommendation dataset                                        |
-| **Performance** | Lightweight local recommendation workflow                              |
-| **Security**    | Controlled application flow and input handling                         |
-| **Impact**      | Converts user mood and media preferences into targeted recommendations |
-| **Repository**  | <a href="https://github.com/tecbcse27deep-debug">View GitHub</a>               |
+| **Performance** | Lightweight recommendation workflow                                    |
+| **Impact**      | Uses mood and media preferences to return targeted recommendations     |
+| **Repository**  | [Movie-Music-Recommender on GitHub](https://github.com/tecbcse27deep-debug/Movie-Music-Recommender) |
 
 ### Professional Project Explanation
 
@@ -184,7 +241,7 @@ The application combines a Python-based recommendation workflow with a Flask web
 
 ### Computer Science & Engineering Student
 
-**Techno Institute of Engineering And Management Banipur**
+**Techno Institute of Engineering And Management Banipur**  
 **Current — 4th Year**
 
 * Developing practical software engineering and AI/ML projects
@@ -205,7 +262,7 @@ The application combines a Python-based recommendation workflow with a Flask web
 | Recognition               | Details                                                                            |
 | ------------------------- | ---------------------------------------------------------------------------------- |
 | **AI/ML Development**     | Built an end-to-end movie and music recommendation application                     |
-| **Software Engineering**  | Developed backend applications using Java, Spring Boot and MySQL                   |
+| **Software Engineering**  | Developed a hotel-booking application with Spring Boot, JSP and JPA                 |
 | **AI Research Direction** | Exploring trustworthy, explainable and responsible healthcare AI                   |
 | **Technical Development** | Continuous hands-on learning across software engineering, AI/ML and data analytics |
 
