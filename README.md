@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E1B4B,50:4C1D95,100:6D28D9&height=230&section=header&text=DEEP%20BISWAS&fontSize=50&fontColor=FFFFFF&fontAlignY=38&desc=COMPUTER%20SCIENCE%20%26%20ENGINEERING%20%7C%20JAVA%20%7C%20FULL-STACK&descAlignY=62&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E1B4B,50:4C1D95,100:6D28D9&height=230&section=header&text=DEEP%20BISWAS&fontSize=50&fontColor=FFFFFF&fontAlignY=38&desc=JAVA%20DEVELOPER%20%7C%20FULL-STACK%20%7C%20SPRING%20BOOT&descAlignY=62&descSize=16" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=850&height=45&lines=CSE+Final+Year+Student;Java+%7C+J2SE+%26+J2EE+Developer;Spring+Boot+Full-Stack+Intern;Core+CS%3A+DBMS+%7C+DS+%7C+OS;Building+Software+That+Actually+Ships" alt="Typing SVG"/>
 
@@ -246,8 +246,8 @@ Built a production-style **Online Hotel Booking** platform end-to-end — requir
 | Qualification | Institution | Year | Result |
 |:--|:--|:--|:--|
 | **B.Tech — Computer Science & Engineering** | Techno Institute of Engineering and Management, Banipur *(Roll: 24400123018)* | 2023 — 2027 | **CGPA 6.90** |
-| **Higher Secondary — Class XII** | West Bengal Board · Science | — | **73%** |
-| **Secondary — Class X** | West Bengal Board | — | **85.29%** |
+| **Higher Secondary — Class XII** | West Bengal Board · Science | **2023** | **73%** |
+| **Secondary — Class X** | West Bengal Board | **2021** | **85.29%** |
 
 </div>
 
